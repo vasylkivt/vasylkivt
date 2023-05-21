@@ -1,7 +1,7 @@
 <div id="header"">
     <picture>
-    <source srcset="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" media="(prefers-color-scheme: dark)" />
-    <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="100" />
+    <source srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" media="(prefers-color-scheme: dark)" />
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
     </picture>
     <img
     src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
