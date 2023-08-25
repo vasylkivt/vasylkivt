@@ -33,8 +33,8 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   challenges**.
 - 🤔 I’m looking for help with **improving my programming skills**.
 - 📫 How to reach me: **[ vasylkiv.t@gmail.com ]**.
+- 📜 My resume: **[ <a href="https://drive.google.com/file/d/1g_Gd3B-tWJdSvFOq8-sCxoRwQDnNzIpF/view?usp=drive_link" target="_blank">View my resume</a> ]**
 - ⚡ Fun fact: Everything starts with **"Hello, world!"**.
-
 <div align="center">
     <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=%C2%ABHello%2C+world!%C2%BB+%22Good+morning!+In+Case+I+Don't+See+Ya%2C;Good+Afternoon%2C+Good+Evening+And+Goodnight.%22"
