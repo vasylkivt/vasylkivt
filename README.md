@@ -33,8 +33,7 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   challenges**.
 - 🤔 I’m looking for help with **improving my programming skills**.
 - 📫 How to reach me: **[ vasylkiv.t@gmail.com ]**.
-- 📜 My resume: <a href="./assets/Taras_Vasylkiv-Frontend_Developer.pdf">**[View resume]**</a> [ google drive ]
-<!-- - 📜 My resume: **[ [View resume](https://drive.google.com/file/d/1g_Gd3B-tWJdSvFOq8-sCxoRwQDnNzIpF/view?usp=drive_link) ]** [ google drive ] -->
+- 📜 My resume: **[ [View resume](https://drive.google.com/file/d/1y00BrkpshmQG7H-eyOP0N_s_z93QHojJ/view?usp=sharing) ]** [ google drive ]
 - ⚡ Fun fact: Everything starts with **"Hello, world!"**.
 <div align="center">
     <img
