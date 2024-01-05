@@ -60,8 +60,5 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   <img src="./images/Vitejs-logo.svg" title="Vitejs" alt="Vitejs"  height="40"/>&nbsp&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
   <img src="./images/postman-icon-svg.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
+  <img src="./images/nextjs-icon.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
 </div>
-
-<!-- <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;<Eat>🍕<Eat/>+;<Sleep>😴<Sleep/>+;<Code>👨‍💻<Code/>+;<Repeat>🔁<Repeat/>+;" alt="Headline" />
-</div> -->
