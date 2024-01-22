@@ -61,4 +61,5 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
   <img src="./images/postman-icon-svg.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
   <img src="./images/nextjs-icon.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
+  <img src="./images/tailwind-svg.svg" title="tailwind" alt="tailwind"  height="40"/>&nbsp&nbsp;
 </div>
