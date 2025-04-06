@@ -33,7 +33,6 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   challenges**.
 - 🤔 I’m looking for help with **improving my programming skills**.
 - 📫 How to reach me: **[ vasylkiv.t@gmail.com ]**.
-- 📜 My resume: **[ [View resume](https://drive.google.com/file/d/1O69t3-SloGQsw4e-4D5Hqvi_jBeRqMXl/view?usp=sharing) ]** [ google drive ]
 - ⚡ Fun fact: Everything starts with **"Hello, world!"**.
 <div align="center">
     <img
