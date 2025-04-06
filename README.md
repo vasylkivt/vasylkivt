@@ -1,17 +1,23 @@
-<div id="header"">
+<div id="header">
     <picture>
     <source srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" media="(prefers-color-scheme: dark)" />
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+    <img 
+        src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" 
+        width="100"
+        alt="Animated GIT logo"
+    />
     </picture>
     <img
-    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-    width="100"
+        src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
+        width="100"
+        alt="Animated GIT logo"
     />
     <h1>
     Hey there, I'm Taras!
     <img
         src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="30px"
+        alt="Animated GIF that says hello"
     />
     </h1>
 </div>
@@ -37,7 +43,7 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
 
 <div>
     <a href="https://www.codewars.com/users/vasylkivt" >
-        <img src="https://www.codewars.com/users/vasylkivt/badges/small" />
+        <img src="https://www.codewars.com/users/vasylkivt/badges/small" alt="Codewars badge" />
     </a>
 </div>
 
