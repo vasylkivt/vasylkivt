@@ -14,12 +14,6 @@
         width="30px"
     />
     </h1>
-    <div>
-        <a href="https://www.codewars.com/users/vasylkivt" >
-        <img src="https://www.codewars.com/users/vasylkivt/badges/small" />
-        </a>
-    </div>
-
 </div>
 
 ### 🖨️ About Me :
@@ -41,6 +35,17 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
     />
 </div>
 
+<div>
+    <a href="https://www.codewars.com/users/vasylkivt" >
+        <img src="https://www.codewars.com/users/vasylkivt/badges/small" />
+    </a>
+</div>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasylkivt&layout=compact&theme=transparent" height="125" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vasylkivt&show_icons=true&theme=transparent" height="125" />
+</div>
+
 ### My stack and tools :
 
 <div>
@@ -60,7 +65,7 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   <img src="./images/vitejs.svg" title="Vitejs" alt="Vitejs"  height="40"/>&nbsp&nbsp;
   <img src="./images/webpack.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
   <img src="./images/postman.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
-  <img  src="./images/nextjs.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
+  <img src="./images/nextjs.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
   <img src="./images/shadcn.svg" title="shadcn/ui" alt="shadcn/ui" height="40" />&nbsp;&nbsp;
   <img src="./images/tailwind.svg" title="tailwind" alt="tailwind"  height="40"/>&nbsp&nbsp;
   <img src="./images/go.svg" title="Go" alt="Go" height="40" />&nbsp;&nbsp;
@@ -72,5 +77,5 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   <img src="./images/mongo-db.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp;&nbsp;
   <img src="./images/redis.svg" title="Redis" alt="Redis" height="40" />&nbsp;&nbsp;
   <img src="./images/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40" />&nbsp;&nbsp;
-
 </div>
+
