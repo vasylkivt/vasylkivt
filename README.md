@@ -44,34 +44,33 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
 ### My stack and tools :
 
 <div>
-  <img src="./images/html5-original.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
-  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
-  <img src="./images/Javascript-shield.svg"  title="JS" alt="JS"  height="40"/>&nbsp&nbsp;
-  <img src="./images/react-original.svg"  title="React" alt="React"  height="40"/>&nbsp&nbsp;
+  <img src="./images/html5.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
+  <img src="./images/css3.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
+  <img src="./images/javascript.svg"  title="JS" alt="JS"  height="40"/>&nbsp&nbsp;
+  <img src="./images/react.svg"  title="React" alt="React"  height="40"/>&nbsp&nbsp;
   <img src="./images/redux.svg" title="Redux" alt="Redux"  height="40"/>&nbsp&nbsp;
-  <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>&nbsp&nbsp;
-  <img src="./images/sass-original.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
-  <img src="./images/git-original.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
-  <img src="./images/github-original.svg" title="Github"  alt="Github"  height="40" />&nbsp&nbsp;
-  <img src="./images/figma-original.svg" title="Figma" alt="Figma"  height="40"/>&nbsp&nbsp;
-  <img src="./images/npm-original.svg" title="Npm" alt="Npm"  height="40"/>&nbsp&nbsp;
+  <img src="./images/react-query.svg" title="React Query" alt="React Query" height="40" />&nbsp;&nbsp;
+  <img src="./images/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code"  height="40"/>&nbsp&nbsp;
+  <img src="./images/sass.svg" title="Sass" alt="Sass"  height="40"/>&nbsp&nbsp;
+  <img src="./images/git.svg" title="Git" alt="Git"  height="40"/>&nbsp&nbsp;
+  <img src="./images/github.svg" title="Github"  alt="Github"  height="40" />&nbsp&nbsp;
+  <img src="./images/figma.svg" title="Figma" alt="Figma"  height="40"/>&nbsp&nbsp;
+  <img src="./images/npm.svg" title="Npm" alt="Npm"  height="40"/>&nbsp&nbsp;
   <img src="./images/parcel.svg" title="Parcel" alt="Parcel" height="40"/>&nbsp&nbsp;
-  <img src="./images/Vitejs-logo.svg" title="Vitejs" alt="Vitejs"  height="40"/>&nbsp&nbsp;
-  <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
-  <img src="./images/postman-icon-svg.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
-  <img src="./images/nextjs-icon.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
-  <img src="./images/tailwind-svg.svg" title="tailwind" alt="tailwind"  height="40"/>&nbsp&nbsp;
-  <img src="./images/go-svg.svg" title="Go" alt="Go" height="40" />&nbsp;&nbsp;
-  <img src="./images/docker-svg.svg" title="Docker" alt="Docker" height="40" />&nbsp;&nbsp;
-  <img src="./images/subgraph-svg.svg" title="Subgraph" alt="Subgraph" height="40" />&nbsp;&nbsp;
-  <img src="./images/shadcn-svg.svg" title="shadcn/ui" alt="shadcn/ui" height="40" />&nbsp;&nbsp;
-  <img src="./images/react-query-svg.svg" title="React Query" alt="React Query" height="40" />&nbsp;&nbsp;
-  <img src="./images/react-table-svg.svg" title="React Table" alt="React Table" height="40" />&nbsp;&nbsp;
-  <img src="./images/web3-svg.svg" title="Web3" alt="Web3" height="40" />&nbsp;&nbsp;
-  <img src="./images/prisma-svg.svg" title="Prisma" alt="Prisma" height="40" />&nbsp;&nbsp;
-  <img src="./images/postgres-svg.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
-  <img src="./images/mongo-db-svg.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp;&nbsp;
-  <img src="./images/redis-svg.svg" title="Redis" alt="Redis" height="40" />&nbsp;&nbsp;
-  <img src="./images/influx-db-svg.svg" title="InfluxDB" alt="InfluxDB" height="40" />&nbsp;&nbsp;
+  <img src="./images/vitejs.svg" title="Vitejs" alt="Vitejs"  height="40"/>&nbsp&nbsp;
+  <img src="./images/webpack.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
+  <img src="./images/postman.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
+  <img  src="./images/nextjs.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
+  <img src="./images/shadcn.svg" title="shadcn/ui" alt="shadcn/ui" height="40" />&nbsp;&nbsp;
+  <img src="./images/tailwind.svg" title="tailwind" alt="tailwind"  height="40"/>&nbsp&nbsp;
+  <img src="./images/go.svg" title="Go" alt="Go" height="40" />&nbsp;&nbsp;
+  <img src="./images/docker.svg" title="Docker" alt="Docker" height="40" />&nbsp;&nbsp;
+  <img src="./images/graphql.svg" title="graph" alt="graph" height="40" />&nbsp;&nbsp;
+  <img src="./images/web3js.svg" title="Web3" alt="Web3" height="40" />&nbsp;&nbsp;
+  <img src="./images/prisma.svg" title="Prisma" alt="Prisma" height="40" />&nbsp;&nbsp;
+  <img src="./images/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="./images/mongo-db.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp;&nbsp;
+  <img src="./images/redis.svg" title="Redis" alt="Redis" height="40" />&nbsp;&nbsp;
+  <img src="./images/influxdb.svg" title="InfluxDB" alt="InfluxDB" height="40" />&nbsp;&nbsp;
 
 </div>
