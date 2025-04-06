@@ -61,4 +61,17 @@ Welcome to my GitHub profile - here I share my projects and learn new things.
   <img src="./images/postman-icon-svg.svg" title="Postman" alt="Postman"  height="40"/>&nbsp&nbsp;
   <img src="./images/nextjs-icon.svg" title="Next.js" alt="nextjs-icon"  height="40"/>&nbsp&nbsp;
   <img src="./images/tailwind-svg.svg" title="tailwind" alt="tailwind"  height="40"/>&nbsp&nbsp;
+  <img src="./images/go-svg.svg" title="Go" alt="Go" height="40" />&nbsp;&nbsp;
+  <img src="./images/docker-svg.svg" title="Docker" alt="Docker" height="40" />&nbsp;&nbsp;
+  <img src="./images/subgraph-svg.svg" title="Subgraph" alt="Subgraph" height="40" />&nbsp;&nbsp;
+  <img src="./images/shadcn-svg.svg" title="shadcn/ui" alt="shadcn/ui" height="40" />&nbsp;&nbsp;
+  <img src="./images/react-query-svg.svg" title="React Query" alt="React Query" height="40" />&nbsp;&nbsp;
+  <img src="./images/react-table-svg.svg" title="React Table" alt="React Table" height="40" />&nbsp;&nbsp;
+  <img src="./images/web3-svg.svg" title="Web3" alt="Web3" height="40" />&nbsp;&nbsp;
+  <img src="./images/prisma-svg.svg" title="Prisma" alt="Prisma" height="40" />&nbsp;&nbsp;
+  <img src="./images/postgres-svg.svg" title="PostgreSQL" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="./images/mongo-db-svg.svg" title="MongoDB" alt="MongoDB" height="40" />&nbsp;&nbsp;
+  <img src="./images/redis-svg.svg" title="Redis" alt="Redis" height="40" />&nbsp;&nbsp;
+  <img src="./images/influx-db-svg.svg" title="InfluxDB" alt="InfluxDB" height="40" />&nbsp;&nbsp;
+
 </div>
